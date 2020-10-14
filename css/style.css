@@ -1,0 +1,16 @@
+.month{
+    font-size: 15px;
+}
+.card-header{
+   background-color:  #f3ececd0;
+}
+
+.card:hover{
+    box-shadow: 0 0 0 4px  #f1eaea8e;
+}
+
+@media(max-width: 768px){
+     .card{
+        margin-bottom: 30px;
+     }
+}
